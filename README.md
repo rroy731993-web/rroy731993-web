@@ -31,12 +31,14 @@
 **Automated Bag Counting & Dispatch Digitization** — Automated bag-counting integrated with ILMS to eliminate manual dispatch data capture
 
 ---
+### 💼 Experience Timeline
+2025 – Present   Manager, Business Process & Systems       Birla Corporation Ltd (RCCPL), Maihar
+2017 – 2025      Deputy Manager, Business Analysis & Ops    Nuvoco Vistas Corp Ltd, Jamshedpur
+2017 (Feb–Oct)   Engineer III, Systems & Process Integration FLSmidth Pvt. Ltd, Gurgaon
+2014 – 2017      Engineer, Instrumentation & Systems         Meghalaya Cements Limited
 
-### 📈 GitHub Stats
+### 🎓 Education
+MBA, Operations & Industrial Management — IIBMS, Mumbai (2018–2020) — A+
+B.E., Electronics & Telecommunication Engineering — Padre Conceicao College of Engineering, Goa University (2010–2014) — Distinction
+Business Analytics with Gen & Agentic AI — BITSOM (2025–2026, in progress)
 
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rroy731993-web&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rroy731993-web&layout=compact&theme=dark)
-
-<!--
-Themes you can swap in for the theme= parameter above: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
--->
