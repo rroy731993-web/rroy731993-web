@@ -33,8 +33,11 @@
 ---
 ### 💼 Experience Timeline
 2025 – Present   Manager, Business Process & Systems       Birla Corporation Ltd (RCCPL), Maihar
+
 2017 – 2025      Deputy Manager, Business Analysis & Ops    Nuvoco Vistas Corp Ltd, Jamshedpur
+
 2017 (Feb–Oct)   Engineer III, Systems & Process Integration FLSmidth Pvt. Ltd, Gurgaon
+
 2014 – 2017      Engineer, Instrumentation & Systems         Meghalaya Cements Limited
 
 ### 🎓 Education
