@@ -39,6 +39,8 @@
 
 ### 🎓 Education
 MBA, Operations & Industrial Management — IIBMS, Mumbai (2018–2020) — A+
+
 B.E., Electronics & Telecommunication Engineering — Padre Conceicao College of Engineering, Goa University (2010–2014) — Distinction
+
 Business Analytics with Gen & Agentic AI — BITSOM (2025–2026, in progress)
 
