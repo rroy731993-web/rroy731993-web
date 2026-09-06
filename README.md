@@ -24,6 +24,7 @@
 
 **Digital Transformation:** GenAI/Agentic AI · Power Automate · QR-based Inspections · ILMS Integration
 
+**Digital Transformation:** DCS · PLC · SCADA · DRIVES
 
 ---
 
