@@ -36,6 +36,15 @@
 
 **Automated Bag Counting & Dispatch Digitization** — Automated bag-counting integrated with ILMS to eliminate manual dispatch data capture
 
+**RABH Panel Elimination & DCS Logic Redesign** — Studied equipment operating data in Excel and SQL to identify a redundant local RABH control panel adding cost without functional value. Redesigned the DCS logic in ABB 800xA v5.1 to run RABH operation smoothly without it — delivering an estimated ₹17 lakh/year in cost savings.
+
+**Legacy PLC Platform Upgrade** — Assessed the plant's control processor for obsolescence risk and led the upgrade path from Rockwell PLC-5/80 to 1756-L85E, reducing dependency on unsupported hardware and improving system reliability.
+
+**Packing Line Optimization** — Optimized bag filter RPM and brought packing plant output under statistical process control across two plants, improving consistency and reducing unnecessary energy draw.
+
+**OHE Line Extension for One-Shot Rake Placement** — Ran a time-motion study on wagon loading siding operations and identified that a 200m OHE (overhead electrification) line extension would enable one-shot rake placement. Commissioned the extension, saving an estimated 1 hour of demurrage time per rake.
+
+
 ---
 ### 💼 Experience Timeline
 2025 – Present   Manager, Business Process & Systems       Birla Corporation Ltd (RCCPL), Maihar
