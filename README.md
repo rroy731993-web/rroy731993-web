@@ -15,10 +15,15 @@
 ### 🛠️ Skills
 
 **Business Analysis:** BRD/FRD · Stakeholder Interviews · Gap Analysis · UAT · Workflow Design
+
 **Data & BI:** SQL · Python · Tableau · Excel/MIS · KPI Dashboards
+
 **Systems & Ops:** SAP PM · Dispatch Workflows · Inventory Reconciliation · DCS (ABB 800xA)
+
 **Continuous Improvement:** Six Sigma · TPM · Root-Cause Analysis · TAT Reduction
+
 **Digital Transformation:** GenAI/Agentic AI · Power Automate · QR-based Inspections · ILMS Integration
+
 
 ---
 
